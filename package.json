@@ -1,6 +1,6 @@
 {
   "name": "browserify",
-  "version": "12.0.1",
+  "version": "13.0.0-ig1",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
@@ -22,7 +22,7 @@
   "dependencies": {
     "JSONStream": "^1.0.3",
     "assert": "~1.3.0",
-    "browser-pack": "^6.0.1",
+    "browser-pack": "7.0.0-ig1",
     "browser-resolve": "^1.11.0",
     "browserify-zlib": "~0.1.2",
     "buffer": "^3.4.3",
